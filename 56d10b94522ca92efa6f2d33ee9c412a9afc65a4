@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAARX//+70\u003d",
+        "filename": "mogami.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 68
+      },
+      "writtenOn": "2012-03-21T20:48:15Z",
+      "side": 1,
+      "message": "Let\u0027s have this happen only on devices that need it. Both iyokan and mango can have this line on their product file.",
+      "revId": "56d10b94522ca92efa6f2d33ee9c412a9afc65a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAARX//+74\u003d",
+        "filename": "prebuilt/init.semc.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 68
+      },
+      "writtenOn": "2012-03-21T20:48:15Z",
+      "side": 1,
+      "message": "Let\u0027s do this differently. Above, in the import line we import init.semc.keyboard.rc and have this line there. Since this uses /data, we should do this \"on post-fs-data\". Then we can just add init.semc.keyboard.rc to devices with a keyboard while others will be ignored silently.\n\nAlso, please fix the indentation to use spaces like the rest of the file.",
+      "revId": "56d10b94522ca92efa6f2d33ee9c412a9afc65a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAARX//+7w\u003d",
+        "filename": "prebuilt/keyswap",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 68
+      },
+      "writtenOn": "2012-03-21T20:48:15Z",
+      "side": 1,
+      "message": "This one looks good, can we just have some indentation on the if parts for better readability?",
+      "revId": "56d10b94522ca92efa6f2d33ee9c412a9afc65a4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
