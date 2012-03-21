@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAARX//+3s\u003d",
+        "filename": "ProParts/src/com/cyanogenmod/ProParts/ProParts.java",
+        "patchSetId": 7
+      },
+      "lineNbr": 91,
+      "author": {
+        "id": 1654
+      },
+      "writtenOn": "2012-03-21T22:53:13Z",
+      "side": 1,
+      "message": "String keyboardKcm \u003d \"qwerty.\" + language + \".kcm\";",
+      "revId": "79f27dc448fb486ef178d9c05ee628ff2cdc183b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAARX//+3o\u003d",
+        "filename": "ProParts/src/com/cyanogenmod/ProParts/ProParts.java",
+        "patchSetId": 7
+      },
+      "lineNbr": 92,
+      "author": {
+        "id": 1654
+      },
+      "writtenOn": "2012-03-21T22:53:13Z",
+      "side": 1,
+      "message": "String keyboardKl \u003d \"qwerty.\" + language + \".kl\";",
+      "revId": "79f27dc448fb486ef178d9c05ee628ff2cdc183b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
