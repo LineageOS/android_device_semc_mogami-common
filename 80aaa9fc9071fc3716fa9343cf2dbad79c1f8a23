@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAARX//+IE\u003d",
+        "filename": "prebuilt/keyswap",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1654
+      },
+      "writtenOn": "2012-03-24T22:06:48Z",
+      "side": 1,
+      "message": "/data/data/com.cyanogenmod.ProParts/ is the wrong path. we moved to com.cyanogenmod.settings .... :-D",
+      "revId": "80aaa9fc9071fc3716fa9343cf2dbad79c1f8a23",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
