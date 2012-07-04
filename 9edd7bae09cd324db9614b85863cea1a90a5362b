@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAUH//6aI\u003d",
+        "filename": "BoardConfigCommon.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 19
+      },
+      "writtenOn": "2012-07-04T13:19:47Z",
+      "side": 1,
+      "message": "we can remove the above 3 lines^",
+      "revId": "9edd7bae09cd324db9614b85863cea1a90a5362b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
